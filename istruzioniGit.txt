@@ -1,0 +1,24 @@
+# Istruzioni di configurazione di git
+git config --global user.name "Mio Nome"
+git config --global user.email "mostraemail@example.com"
+git config --global --list
+
+# Creare un nuovo progetto GIT locale e caricarlo in Remoto su GitHub
+git init
+git add .
+git commit -m "Primo caricamento"
+git branch -M main
+git remote add origin https://github.com/vostroaccount/vostrarepo.git
+git push -u origin main
+
+# Clonare una repository remota in locale
+git clone https://github.com/vostroaccount/vostrarepo.git
+
+# Caricare modifiche locali su GIThub
+git status
+git add .
+git commit -m "messaggio"
+git push
+
+# Scaricare modifiche fatte da altri in locale
+# git pull
