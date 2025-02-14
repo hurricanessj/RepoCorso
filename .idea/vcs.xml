@@ -2,5 +2,19 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArrayJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CalcoliFigureGeometriche" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ereditarieta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EsGestEccezioni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EsercizioCreaAzienda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GestireEccezioni" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IfElse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ListSetMap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MetodieOverload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OggComeParamDiMetodi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/esercizioJdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for_DoWhile_BeC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interfacce" vcs="Git" />
   </component>
 </project>
